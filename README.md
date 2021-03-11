@@ -12,7 +12,7 @@ Task
 
 Result
 ------------
-[Uploder](http://bogdangarmaevplsletmein.pythonanywhere.com/image/)
+[Uploader](http://bogdangarmaevplsletmein.pythonanywhere.com/image/)
 [Admin panel](http://bogdangarmaevplsletmein.pythonanywhere.com/admin/)
 
 Spent time
