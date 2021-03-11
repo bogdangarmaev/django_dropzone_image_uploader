@@ -14,6 +14,7 @@ Result
 ------------
 [Uploader](http://bogdangarmaevplsletmein.pythonanywhere.com/image/)
 [Admin panel](http://bogdangarmaevplsletmein.pythonanywhere.com/admin/)
+Login:123 Password:123
 
 Spent time
 ----------
