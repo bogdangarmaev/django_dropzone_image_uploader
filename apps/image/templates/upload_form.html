@@ -1,0 +1,17 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Upload pictures</title>
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/dropzone/5.8.1/basic.css" type="text/css" rel="stylesheet"/>
+    </head>
+    <body>
+        <form class="dropzone" action="{% url 'upload_image' %}" method="post" enctype="multipart/form-data">
+            {% csrf_token %}
+            <div class="fallback">
+                <input name="file" type="src" multiple />
+            </div>
+        </form>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/dropzone/5.8.1/min/dropzone.min.js"></script>
+    </body>
+</html>
